@@ -1,0 +1,52 @@
+/* Customize search box */
+.dataTables_filter input {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px 10px;
+    margin-left: 0.5em;
+}
+
+/* Customize length dropdown */
+.dataTables_length select {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+/* Button spacing */
+.dt-buttons .btn {
+    margin-right: 5px;
+}
+
+/* Pagination buttons */
+.dataTables_paginate .paginate_button {
+    padding: 6px 12px;
+    margin: 2px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    color: #007bff;
+}
+
+.dataTables_paginate .paginate_button.current {
+    background-color: #007bff;
+    color: white !important;
+}
+
+.dataTables_length select {
+    padding: 5px 10px !important;
+    border-radius: 6px !important;
+    border: 1px solid #ccc !important;
+    margin-left: 0.5rem !important;
+}
+
+.select2-container .select2-selection--single {
+    height: 38px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 28px;
+    color: #333;
+}

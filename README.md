@@ -1,5 +1,7 @@
   <h1>📊 Custom jQuery DataTable</h1>
 
+  <img src="Screenshot_1.png" width="100%" alt="Preview Image">
+  </br>
   <p>This project demonstrates a fully customizable jQuery DataTable with styled search input, pagination, export buttons, and row length selector using DataTables.js and its extensions.</p>
 
   <h2>🚀 Features</h2>
@@ -35,8 +37,8 @@
     <li>Clone or download the repository:</li>
   </ol>
 
-  <pre><code>git clone https://github.com/your-username/custom-jquery-datatable.git
-cd custom-jquery-datatable
+  <pre><code>git clone https://github.com/rokyh459/custom-datatable.git
+cd custom-datatable
 </code></pre>
 
   <p>2. Open <code>index.html</code> in your browser to see the demo.</p>

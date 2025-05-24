@@ -1,47 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Custom jQuery DataTable - README</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: #f9f9f9;
-      color: #333;
-      padding: 40px;
-      max-width: 900px;
-      margin: auto;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #1a73e8;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 15px;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    pre code {
-      background: none;
-      color: inherit;
-      padding: 0;
-    }
-    a {
-      color: #1a73e8;
-    }
-  </style>
-</head>
-<body>
-
   <h1>📊 Custom jQuery DataTable</h1>
 
   <p>This project demonstrates a fully customizable jQuery DataTable with styled search input, pagination, export buttons, and row length selector using DataTables.js and its extensions.</p>
@@ -126,6 +82,3 @@ pageLength: 10,
 
   <hr/>
   <p>Built with ❤️ using jQuery + DataTables.js</p>
-
-</body>
-</html>

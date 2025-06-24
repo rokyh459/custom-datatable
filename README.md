@@ -1,3 +1,5 @@
+  <a href="https://rokyh459.github.io/custom-datatable/"> Live Demo </a>
+
   <h1>📊 Custom jQuery DataTable</h1>
 
   <img src="Screenshot_1.png" width="100%" alt="Preview Image">
@@ -77,7 +79,7 @@ pageLength: 10,
 </code></pre>
 
   <h2>✅ Live Demo</h2>
-  <p>Include a link to GitHub Pages or <a href="#">JSFiddle/CodePen</a> (optional).</p>
+  <p>Include a link to GitHub Pages or <a href="https://rokyh459.github.io/custom-datatable/"> Demo </a> (optional).</p>
 
   <h2>📄 License</h2>
   <p>This project is open-source under the MIT License.</p>
